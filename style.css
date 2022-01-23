@@ -1,5 +1,5 @@
 .banner{
-    background: url(src="m1.jfif") no-repeat center;
+    background: src="m1.jfif" no-repeat center;
     background-size: cover;
     padding-top: 20%;
     padding-bottom: 20%;
